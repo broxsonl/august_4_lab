@@ -1,0 +1,28 @@
+/* ************************
+GLOBAL STYLES
+************************ */
+
+body {
+  font-family: Helvetica;
+}
+
+ul li {
+  list-style: none;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+.clearfix {
+  clear: both;
+}
+
+
+
+/* ************************
+CONTENT STYLES
+************************ */
+
+/* **** form styles **** */
