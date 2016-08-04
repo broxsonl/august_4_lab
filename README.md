@@ -5,4 +5,4 @@ Team Conquest
 
 Members: Lee, Sera, Tai, Adrian
 
-We are about to go on an adventure!!!!
+We are going on an adventure!!!! Road Trip....
