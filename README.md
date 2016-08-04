@@ -8,3 +8,5 @@ Members: Lee, Sera, Tai, Adrian
 We are going on an adventure!!!! Road Trip....
 
 Let's do this. 
+
+Eh, buddy friend?
