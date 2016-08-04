@@ -1,0 +1,23 @@
+header {
+  background: #fff;
+  height: 100px;
+}
+.header_right {
+float:right;
+}
+.headerimage1 {
+  float left;
+  /*outline: dotted 5px orange;*/
+}
+nav ul li {
+  display: inline;
+  margin: 20px;
+}
+nav a {
+  text-decoration: none;
+  color: #444;
+}
+nav {
+  background-color: grey;
+  padding: 20px;
+}
